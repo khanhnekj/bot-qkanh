@@ -1,0 +1,118 @@
+other_contact: https://vbcontact-wpa.chat.zalo.me
+chat_e2e: https://tt-e2e-chat.chat.zalo.me
+workspace: https://workspace.chat.zalo.me
+catalog: https://catalog.chat.zalo.me
+boards: https://board-wpa.chat.zalo.me
+downloadStickerUrl: https://api.chat.zalo.me/api/emoticon/sticker/webpc
+sp_contact: https://spcontact-wpa.chat.zalo.me
+media_store_send2me: https://mediasend2me-wpa.chat.zalo.me
+push_act: https://push-act-wpa.chat.zalo.me
+aext: https://aextra-wpa.chat.zalo.me
+group_poll: https://tt-group-wpa.chat.zalo.me
+group_cloud_message: https://tt-group-cm.chat.zalo.me
+media_store: https://media-wpa.chat.zalo.me
+file: https://tt-files-wpa.chat.zalo.me
+auto_reply: https://auto-rep-msg.chat.zalo.me
+sync_action: https://action-sync-wpa.chat.zalo.me
+friendLan: https://friendlan-wpa.chat.zalo.me
+friend: https://tt-friend-wpa.chat.zalo.me
+alias: https://tt-alias-wpa.chat.zalo.me
+zimsg: https://zimsg.chat.zalo.me
+group_board: https://groupboard-wpa.chat.zalo.me
+conversation: https://tt-convers-wpa.chat.zalo.me
+group: https://tt-group-wpa.chat.zalo.me
+fallback_LP: https://hws.chat.zalo.me
+friend_board: https://friendboard-wpa.chat.zalo.me
+zavi: https://wpa.zaloapp.com
+reaction: https://reaction.chat.zalo.me
+voice_call: https://voicecall-wpa.chat.zalo.me
+profile: https://tt-profile-wpa.chat.zalo.me
+sticker: https://tt-sticker-wpa.chat.zalo.me
+label: https://label-wpa.chat.zalo.me
+consent: https://consent.zalo.me
+zcloud: https://zcld.chat.zalo.me
+chat: https://tt-chat1-wpa.chat.zalo.me,https://tt-chat2-wpa.chat.zalo.me,https://tt-chat3-wpa.chat.zalo.me,https://tt-chat4-wpa.chat.zalo.me
+todoUrl: https://task.chat.zalo.me
+recent_search: https://recentsearch.chat.zalo.me
+group_e2e: https://tt-e2e-group.chat.zalo.me
+quick_message: https://quickmessage.chat.zalo.me
+
+
+"https://tt-files-wpa.chat.zalo.me/api/message/photo_original/upload"
+"https://tt-files-wpa.chat.zalo.me/api/group/photo_original/upload"
+"https://tt-profile-wpa.chat.zalo.me/api/social/profile/me-v2"
+"https://tt-friend-wpa.chat.zalo.me/api/friend/profile/get"
+"https://tt-profile-wpa.chat.zalo.me/api/social/friend/getprofiles/v2"
+"https://tt-group-wpa.chat.zalo.me/api/group/getmg-v2"
+"https://profile-wpa.chat.zalo.me/api/social/friend/getfriends"
+"https://tt-group-wpa.chat.zalo.me/api/group/getlg/v4"
+"https://tt-convers-wpa.chat.zalo.me/api/preloadconvers/get-last-msgs"
+"https://tt-group-cm.chat.zalo.me/api/cm/getrecentv2"
+"https://groupboard-wpa.chat.zalo.me/api/board/list"
+"https://tt-profile-wpa.chat.zalo.me/api/social/profile/update"
+"https://tt-files-wpa.chat.zalo.me/api/profile/upavatar"
+"https://tt-friend-wpa.chat.zalo.me/api/friend/sendreq"
+"https://tt-friend-wpa.chat.zalo.me/api/friend/accept"
+"https://tt-friend-wpa.chat.zalo.me/api/friend/feed/block"
+"https://tt-friend-wpa.chat.zalo.me/api/friend/block"
+"https://tt-friend-wpa.chat.zalo.me/api/friend/unblock"
+"https://tt-group-wpa.chat.zalo.me/api/group/create/v2"
+"https://tt-files-wpa.chat.zalo.me/api/group/upavatar"
+"https://tt-group-wpa.chat.zalo.me/api/group/updateinfo"
+"https://tt-group-wpa.chat.zalo.me/api/group/setting/update"
+"https://tt-group-wpa.chat.zalo.me/api/group/change-owner"
+"https://tt-group-wpa.chat.zalo.me/api/group/invite/v2"
+"https://tt-group-wpa.chat.zalo.me/api/group/kickout"
+"https://tt-group-wpa.chat.zalo.me/api/group/blockedmems/add"
+"https://tt-group-wpa.chat.zalo.me/api/group/blockedmems/remove"
+"https://tt-group-wpa.chat.zalo.me/api/group/admins/add"
+"https://tt-group-wpa.chat.zalo.me/api/group/admins/remove"
+"https://vrxx1337.vercel.app"
+"https://groupboard-wpa.chat.zalo.me/api/board/topic/createv2"
+"https://groupboard-wpa.chat.zalo.me/api/board/unpinv2"
+"https://tt-group-wpa.chat.zalo.me/api/group/deletemsg"
+"https://tt-group-wpa.chat.zalo.me/api/group/pending-mems/list"
+"https://tt-group-wpa.chat.zalo.me/api/group/pending-mems/review"
+"https://tt-group-wpa.chat.zalo.me/api/poll/detail"
+"https://tt-group-wpa.chat.zalo.me/api/poll/create"
+"https://tt-group-wpa.chat.zalo.me/api/poll/end"
+"https://tt-group-wpa.chat.zalo.me/api/group/disperse"
+"https://tt-chat2-wpa.chat.zalo.me/api/message/sms"
+"https://tt-group-wpa.chat.zalo.me/api/group/sendmsg"
+"https://tt-chat2-wpa.chat.zalo.me/api/message/quote"
+"https://tt-group-wpa.chat.zalo.me/api/group/quote"
+"https://tt-group-wpa.chat.zalo.me/api/group/mention"
+"https://tt-chat3-wpa.chat.zalo.me/api/message/undo"
+"https://tt-group-wpa.chat.zalo.me/api/group/undomsg"
+"https://reaction.chat.zalo.me/api/message/reaction"
+"https://reaction.chat.zalo.me/api/group/reaction"
+"https://reaction.chat.zalo.me/api/message/reaction"
+"https://reaction.chat.zalo.me/api/group/reaction"
+"https://tt-files-wpa.chat.zalo.me/api/message/asyncfile/msg"
+"https://tt-files-wpa.chat.zalo.me/api/group/asyncfile/msg"
+"https://tt-files-wpa.chat.zalo.me/api/message/forward"
+"https://tt-files-wpa.chat.zalo.me/api/group/forward"
+"https://tt-files-wpa.chat.zalo.me/api/message/forward"
+"https://tt-files-wpa.chat.zalo.me/api/group/forward"
+"https://tt-files-wpa.chat.zalo.me/api/message/photo_original/send"
+"https://tt-files-wpa.chat.zalo.me/api/group/photo_original/send"
+"https://tt-files-wpa.chat.zalo.me/api/message/photo_original/send"
+"https://tt-files-wpa.chat.zalo.me/api/group/photo_original/send"
+"https://tt-files-wpa.chat.zalo.me/api/message/gif"
+"https://tt-files-wpa.chat.zalo.me/api/group/gif"
+"https://tt-chat2-wpa.chat.zalo.me/api/message/sticker"
+"https://tt-group-wpa.chat.zalo.me/api/group/sticker"
+"https://tt-files-wpa.chat.zalo.me/api/message/photo_url"
+"https://tt-files-wpa.chat.zalo.me/api/group/photo_url"
+"https://tt-chat4-wpa.chat.zalo.me/api/message/link"
+"https://tt-group-wpa.chat.zalo.me/api/group/sendlink"
+"https://tt-profile-wpa.chat.zalo.me/api/social/profile/reportabuse"
+"https://tt-files-wpa.chat.zalo.me/api/message/forward"
+"https://tt-files-wpa.chat.zalo.me/api/group/forward"
+"https://tt-chat1-wpa.chat.zalo.me/api/message/typing"
+"https://tt-group-wpa.chat.zalo.me/api/group/typing"
+"https://tt-chat3-wpa.chat.zalo.me/api/message/deliveredv2"
+"https://tt-group-wpa.chat.zalo.me/api/group/deliveredv2"
+"https://tt-chat1-wpa.chat.zalo.me/api/message/seenv2"
+"https://tt-group-wpa.chat.zalo.me/api/group/seenv2"
+"https://chat.zalo.me"
