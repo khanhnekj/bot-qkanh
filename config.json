@@ -1,0 +1,32 @@
+{
+  "bot": {
+    "prefix": "-",
+    "selfListen": true,
+    "autoAcceptInvites": false,
+    "adminOnly": true
+  },
+  "credentials": {
+    "imei": "899924cd-9f44-4da5-bf55-8d8e1b724bf0-7675d59b5e84e0a878ee6f0a97f9056f",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    "cookies": "nl_b04af40bb0e193acf8a9877592394ada=tzaoLC8i6ltAq35JnYmO-ipRC4ZHUd-_dTmI0penVG; zpdid=4HttdLtvg3KH792QK_x4DXOOa9XK-C0q; zlogin_session=kW4JGLyjCnIxFnDDLXTbH-Tj1aHL4657vMePLGnNRr-kAnLQ6qXpMAmh5Lat8dq; _zlang=vn; zpsid=eMKnVcAlVqAZUYmFRfDd7E8TR4nnacKNvnzrJ6kLEt2C5sjGJUSsGzi5GquDY19zwc0QJWIS4Nh54s5ZDv1kTk9dFYq8jL80Xq4ABMRFLX-S0LyPNV425m; zlogtype=EXPIRED; __zi=3000.QOBlzDCV2uGerkFzm0LJqcNNuVR51nZRPjUkzS836DXbrANs.1; zpw_sek=Tk6o.453157847.a0.mM8zbI7XVBVsGdwi0E5yjrh36Tm3srx4QTaxxqQGFTjCqpY7GBO8ra3N9V9Mt46LNE1BLFWC16o1u0nOaOXyjm; app.event.zalo.me=7713100542915103875; Path=/; Domain=.chat.zalo.me; Expires=Wed, 25-Mar-2026 18:15:44 GMT; HttpOnly=; Max-Age=7775698; Secure=; SameSite=Lax"
+  },
+  "admin": {
+    "ids": [
+      "6507497158633565458"
+    ]
+  },
+  "zalopay": {
+    "appid": "2554",
+    "key1": "sdngkie6cfh34lbw6a6932j6is089e9s",
+    "key2": "trMrHPAW6S0SAt68",
+    "create_url": "https://sb-openapi.zalopay.vn/v2/create",
+    "query_url": "https://sb-openapi.zalopay.vn/v2/query"
+  },
+  "kaia": {
+    "token": "MTIwMzEyNjkyMTgzMjA0NjcwMg.GhyP_J.mdpDpouLTb1tKMZFHgEdeBr2Q8JpuTNvSG4vDQ",
+    "channelId": "1465668282248986665"
+  },
+  "pixverse": {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJBY2NvdW50SWQiOjM5MjMxOTY2MjYwMDA0NiwiRXhwaXJlVGltZSI6MTc3NjI3NjY4OSwiVXNlcm5hbWUiOiJraGFuaGN1dGU0NTYxIn0.vjFkqQF1vQufDWewhN3FMA9sqmG55nuh3YGQAg-EpHI"
+  }
+}
